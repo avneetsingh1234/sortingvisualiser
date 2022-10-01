@@ -1,5 +1,5 @@
 body {
-    background-color: #CFFFDC;
+    background-color: #90e0ef;
     font-family: 'Nanum Gothic Coding', monospace;
     text-align: center;
     zoom: 75%;
@@ -14,7 +14,7 @@ body {
 }
 
 .speedrange.sizerange {
-    color: #8A9A5B;
+    color: #90e0ef;
 }
 
 .appname {
@@ -26,7 +26,7 @@ body {
     margin-left: auto;
     font-size: 1.3rem;
     font-weight: bold;
-    color:#8A9A5B;
+    color:#90e0ef;
 }
 
 .nav-link,
@@ -53,12 +53,12 @@ body {
     display: inline-block;
 }
 .bar {
-    background-color: #57CC99;
+    background-color: rgb(57, 104, 135);
     margin-right: 0.1%;
     margin-left: 0.3%;
     display: inline-block;
     border-radius: 50px;
-    box-shadow: 3px 5px #888888;
+    box-shadow: 3px 5px #83a4f7;
     bottom: 0px;
 }
 
@@ -67,7 +67,7 @@ body {
 #sort-button {
     font-size: 2rem;
     border-radius: 50px;
-    box-shadow: 5px 3px #888888;
+    box-shadow: 5px 3px #83a4f7;
     font-weight: 900;
     width: 80%;
     margin: 2% 10%;
